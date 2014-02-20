@@ -1,0 +1,6 @@
+[example]
+services_url = https://localhost:3000/
+application_id = bd967899194a99710fa3a3fc298c6fef23c5003935a534e151b43730901e6a08
+application_secret = c66910d336e190a7d8f0a17f364dec1284500f7233b708e1071054bd22445a2f
+app_url = http://localhost:5000/
+port = 5000
